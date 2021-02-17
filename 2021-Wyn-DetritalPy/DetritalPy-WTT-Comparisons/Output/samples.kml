@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="2">
+            <IconStyle id="3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="4">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="6">
+            <name>WYN17-1</name>
+            <description>Wynyard Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="5">
+                <coordinates>145.787801,-41.015657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>WYN17-2</name>
+            <description>Wynyard Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="7">
+                <coordinates>145.782597,-41.011554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10">
+            <name>WT12WH73</name>
+            <description>Meredith Granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="9">
+                <coordinates>145.359,-41.645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12">
+            <name>WT131414</name>
+            <description>Pine Hill Granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="11">
+                <coordinates>145.508,-41.859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14">
+            <name>WT12WH20</name>
+            <description>White Heemskirk Granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="13">
+                <coordinates>145.104,-41.845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16">
+            <name>WT12WH11</name>
+            <description>Pieman Heads Granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="15">
+                <coordinates>144.937,-41.719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>R017895</name>
+            <description>Meredith Granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="17">
+                <coordinates>145.36962890625,-41.65985107421875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20">
+            <name>96220032</name>
+            <description>Noddy Creek Volcanics (rhyolite)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="19">
+                <coordinates>145.4054718017578,-42.4721565246582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22">
+            <name>B-134362</name>
+            <description>Sticht Range Fm</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="21">
+                <coordinates>145.657,-41.9581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <name>B-134308</name>
+            <description>Gog Greywacke</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="23">
+                <coordinates>146.56836255,-41.546350745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26">
+            <name>B-134329</name>
+            <description>Gog Greywacke</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="25">
+                <coordinates>146.160803407,-41.35314148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>B-130598</name>
+            <description>Animal Creek Greywacke</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="27">
+                <coordinates>145.6121,-41.6361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30">
+            <name>B-130600</name>
+            <description>Animal Creek Greywacke</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="29">
+                <coordinates>145.623,-41.6308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32">
+            <name>07M-02</name>
+            <description>Pegmatitic gabbro</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="31">
+                <coordinates>145.248291871,-41.905160243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34">
+            <name>07M-05</name>
+            <description>dspar-hornblende-phyric dacite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="33">
+                <coordinates>145.622156465,-41.722746272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36">
+            <name>07M-07</name>
+            <description>dspar-hornblende-phyric dacite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="35">
+                <coordinates>145.585704523,-41.78302678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>07M-06</name>
+            <description>Kershaw Pumice Formation (Feldspar-phyric dacite)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="37">
+                <coordinates>145.545302787,-41.778469213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40">
+            <name>315R-150</name>
+            <description>Hercules Pumice Formation (Pumice Breccia)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="39">
+                <coordinates>145.556083883,-41.751116764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42">
+            <name>08M-03</name>
+            <description>Hercules Pumice Formation (Pumice Breccia)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="41">
+                <coordinates>145.510657846,-41.833163811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44">
+            <name>120R-1414</name>
+            <description>Hercules Pumice Formation (Pumice Breccia)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="43">
+                <coordinates>145.553070354,-41.762121087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="46">
+            <name>120R-1320</name>
+            <description>K lens porphyry </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="45">
+                <coordinates>145.553070354,-41.762121087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>112R-668</name>
+            <description>White Spur Formation (Rhyolite intrusion)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="47">
+                <coordinates>145.555918179,-41.782106761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50">
+            <name>WSP-5-12</name>
+            <description>White Spur Formation (Rhyolite intrusion)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="49">
+                <coordinates>145.515999802,-41.894333376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52">
+            <name>HED011-893</name>
+            <description>Que-Hellyer Volcanics (Hellyer footwall andesite) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="51">
+                <coordinates>145.730974324,-41.577546635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54">
+            <name>HED02-73</name>
+            <description>Southwell Subgroup and Que River Shale (“Lower rhyolite” intrusion) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="53">
+                <coordinates>145.720515355,-41.583573518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56">
+            <name>HED11-256</name>
+            <description>Southwell Subgroup and Que River Shale (“Lower rhyolite” intrusion) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="55">
+                <coordinates>145.730974324,-41.577546635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>07M-24</name>
+            <description>Mt. Cripps Subgroup (Welded ignimbrite) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="57">
+                <coordinates>145.745576312,-41.556900525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60">
+            <name>08M-09</name>
+            <description>Philosopher’s Ridge-Central Volcanic Complex (Flow-banded rhyolite) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="59">
+                <coordinates>145.585433061,-42.071537122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62">
+            <name>07M-21</name>
+            <description>Mt. Jukes Road-Central Volcanic Complex (Quartz-phyric rhyolite) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="61">
+                <coordinates>145.587041008,-42.162447536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64">
+            <name>07M-22</name>
+            <description>Mt. Jukes Road-Central Volcanic Complex (Columnar jointed intrusive rhyolite) </description>
+            <styleUrl>#2</styleUrl>
+            <Point id="63">
+                <coordinates>145.584083882,-42.162059833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66">
+            <name>07M-25</name>
+            <description>Range porphyr</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="65">
+                <coordinates>145.892847089,-41.56309673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>07M-09</name>
+            <description>Murchison granite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="67">
+                <coordinates>145.635853738,-41.816813968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="70">
+            <name>R018036</name>
+            <description>Oonah Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="69">
+                <coordinates>145.472317642,-41.434448763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72">
+            <name>R018029</name>
+            <description>Oonah Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="71">
+                <coordinates>145.490066188,-41.428819459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74">
+            <name>BF1406</name>
+            <description>Oonah Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="73">
+                <coordinates>145.901832,-41.0461138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76">
+            <name>93220002</name>
+            <description>Cooee Dolerite (intrudes Oonah Fm)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="75">
+                <coordinates>145.90191650390625,-41.04587936401367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>R018210</name>
+            <description>Deep Creek Volcanics</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="77">
+                <coordinates>145.374414173,-41.495282471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <name>R018213</name>
+            <description>Deep Creek Volcanics</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="79">
+                <coordinates>145.374414173,-41.495282471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82">
+            <name>R018218</name>
+            <description>Halls Formation</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="81">
+                <coordinates>145.374414173,-41.495282471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84">
+            <name>R018223</name>
+            <description>Crescent Spur Sandstone</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="83">
+                <coordinates>145.374414173,-41.495282471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86">
+            <name>R018272</name>
+            <description>Crescent Spur Sandstone</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="85">
+                <coordinates>145.416808128,-41.468348415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>SY016</name>
+            <description>Red Rock Member</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="87">
+                <coordinates>145.296794,-41.891101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90">
+            <name>G407255</name>
+            <description>Red Rock Member</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="89">
+                <coordinates>145.732019,-41.711572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92">
+            <name>G407256</name>
+            <description>Red Rock Member</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="91">
+                <coordinates>145.338708,-41.71906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94">
+            <name>93220006</name>
+            <description>Bowry Formation (quartzite)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="93">
+                <coordinates>145.19056701660156,-41.6314697265625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96">
+            <name>R005453</name>
+            <description>Bowry Formation (metaquartzwacke)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="95">
+                <coordinates>145.404646,-41.219454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>R005458</name>
+            <description>Bowry Formation (metagreywacke)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="97">
+                <coordinates>145.377329,-41.248346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100">
+            <name>G408136</name>
+            <description>Bowry Formation (quartz cholorite schist)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="99">
+                <coordinates>145.189739,-41.519111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102">
+            <name>R005005</name>
+            <description>Bird Phyllite (quartzite)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="101">
+                <coordinates>145.414288,-41.135701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104">
+            <name>R005006</name>
+            <description>Bird Phyllite (Quartzite)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="103">
+                <coordinates>145.408415,-41.132322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="106">
+            <name>R005432</name>
+            <description>Keith Schist (quartz mica schist)</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="105">
+                <coordinates>145.4368113,-41.195764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>SM17-46</name>
+            <description>Dalcoath Formation?</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="107">
+                <coordinates>145.336385,-41.720557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <name>73-116</name>
+            <description>Wings Sandstone</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="109">
+                <coordinates>146.242078,-42.687728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112">
+            <name>IS-2012-569</name>
+            <description>Irby Siltstone</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="111">
+                <coordinates>145.472,-40.964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114">
+            <name>DS-135962</name>
+            <description>Detention Subgroup</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="113">
+                <coordinates>144.62,-41.011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116">
+            <name>BS-CCQTZ</name>
+            <description>Balfour Subgroup</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="115">
+                <coordinates>144.846,-41.15,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>LRQ-2012-306</name>
+            <description>Lagoon River Quartzite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="117">
+                <coordinates>144.91,-41.363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120">
+            <name>PRS-136057</name>
+            <description>Pedder Siltstone</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="119">
+                <coordinates>144.707,-41.232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="122">
+            <name>R6533/MCPP1</name>
+            <description>Tyennan Quartzite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="121">
+                <coordinates>145.2911,-41.425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="124">
+            <name>G407249</name>
+            <description>Goat Island Conglomerate</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="123">
+                <coordinates>145.732019,-41.711572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="126">
+            <name>R004296</name>
+            <description>Forest Conglomerate</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="125">
+                <coordinates>144.90527778,-41.2125426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>B-134314</name>
+            <description>Forest Conglomerate</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="127">
+                <coordinates>145.3072,-40.8483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="130">
+            <name>B-130628</name>
+            <description>Stitt Quartzite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="129">
+                <coordinates>145.523275222,-41.764651084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="132">
+            <name>B-130590</name>
+            <description>Stitt Quartzite</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="131">
+                <coordinates>145.519786777,-41.680843362,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
